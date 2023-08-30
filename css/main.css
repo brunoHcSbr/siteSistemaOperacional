@@ -1,0 +1,189 @@
+body{
+    background-image: url('https://wallpapercave.com/wp/wp9119139.jpg');
+    background-size: cover;
+    background-repeat:repeat;
+    height: 100vh;
+
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.primDupla{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.segundaDupla{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
+
+.tercDupla{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
+
+.ultimaDupla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
+
+.ultimaDecada{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
+
+.titulo{
+    font-family: sans-serif;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: rgba(137, 43, 226, 0.24);
+    border-bottom: 2px;
+    border: 1px solid #7e7e7e;
+    border-color: rgb(0, 0, 0);
+    border-width: medium;
+}
+
+.decada40{
+    color: azure;
+    display: flex;
+    justify-content: space-around;
+    width: 550px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgba(126, 126, 126, 0.139);
+    border-radius: 10%;
+    border: 1px solid #000;
+    border-color: black; 
+    border-width: thin;
+}
+
+.decada50{
+    color: azure;
+    width: 550px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgba(126, 126, 126, 0.139);
+    border-radius: 10%;
+    border: 1px solid #000;
+    border-color: black; 
+    border-width: medium;
+}
+
+.decada60{
+    color: azure;
+    width: 550px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgba(126, 126, 126, 0.139);
+    border-radius: 10%;
+    border: 1px solid #000;
+    border-color: black; 
+    border-width: medium;
+}
+
+.decada70{
+    color: azure;
+    width: 550px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgba(126, 126, 126, 0.139);
+    border-radius: 10%;
+    border: 1px solid #000;
+    border-color: black; 
+    border-width: medium;
+}
+
+.decada80{
+    color: azure;
+    width: 550px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgba(126, 126, 126, 0.139);
+    border-radius: 10%;
+    border: 1px solid #000;
+    border-color: black; 
+    border-width: medium;
+}
+
+.decada90{
+    color: azure;
+    width: 550px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgba(126, 126, 126, 0.139);
+    border-radius: 10%;
+    border: 1px solid #000;
+    border-color: black; 
+    border-width: medium;
+}
+
+.fundoUltimaDecada{
+    color: azure;
+    width: 550px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgba(126, 126, 126, 0.139);
+    border-radius: 10%;
+    border: 2px solid #000;
+    border-color: black; 
+    border-width: medium; 
+}
+
+.imagem{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%; 
+    border: 1px solid #000;
+    border-color: black; 
+    border-width: thin;
+}
+
+.hidden{
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+    text-indent: 1.5em;
+    margin: 10px;
+    margin: 10px 20px;
+    margin: 10px 15px 20px 25px; 
+}
+
+.divText{
+    background-color: rgba(255, 255, 255, 0.788);
+    margin: 10px;
+    margin: 10px 20px;
+    margin: 10px 15px 20px 25px; 
+    text-indent: 1.5em;
+    border-radius: 10%;
+    border: 1px solid #000;
+    border-color: black; 
+    border-width: thin;
+}
